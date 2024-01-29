@@ -3,4 +3,4 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 
 The Dataset explores different attributes of TV shows and Movies streamed on Netflix worldwide. Attributes include; title, cast, director, country, ratings, genre, release year, duration and data added to neflix streaming platform.
 
-The aim of this project is to gain insights and to ascertain how Netflix could maximise its content delivery globally, based on these different attributes. These insights may be used to increase Netflix subscribers and increase customer satisfaction.
+The aim of this project is to gain insights into how Netflix could maximize it's content delivery globally, based on these different attributes. These insights may be used to increase Netflix subscribers and increase customer satisfaction.
